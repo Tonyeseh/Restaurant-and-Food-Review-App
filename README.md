@@ -8,6 +8,8 @@ This is a pair project done in relation to ALX School
 
 This is a pair project done in relation to ALX School. The Restaurant Review Site is a web-based application that provides users with a platform to find the best restaurants in their area. It relies on reviews and ratings from other users, food bloggers, and vloggers to create a comprehensive and reliable guide to local dining options.
 
+
+
 ### Features
 
 * Implemented
@@ -28,17 +30,29 @@ This is a pair project done in relation to ALX School. The Restaurant Review Sit
 The code for this project was written in Python using Flask framework and SQLAlchemy ORM for database management. HTML, CSS, and JavaScript were used for the frontend. The code is available on GitHub.
 
 ## Dependencies :couple:
+Frameworks and libraries include:
 
-    Flask
-Flask_Session
-    SQLAlchemy
-    Werkzeug
-    Jinja2
-    Bootstrap
+ * Flask
+ * Flask_Session
+ * MySQLdb
+ * SQLAlchemy
+ * Werkzeug
+ * Jinja2
+ * Bootstrap
 
 ## Development :computer:
 
 This project was developed by Joseph Bamisaye and Tony Eseh as part of their ALX School curriculum. It was developed using Agile methodology, and regular meetings and code reviews were held to ensure timely completion of the project.
+
+#### Languages
+* Backend
+   * Python
+* Frontend
+   * HTML
+   * JavaScript
+   * CSS
+* Database
+   * MySQL
 
 ## Tests :triangular_ruler:
 
