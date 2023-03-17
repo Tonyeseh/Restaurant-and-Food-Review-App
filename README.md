@@ -10,24 +10,28 @@ This is a pair project done in relation to ALX School. The Restaurant Review Sit
 
 ### Features
 
-    User registration and login
-    Search for restaurants by location and cuisine
-    View restaurant details, including reviews and ratings
-    Write and post restaurant reviews
-    Like and dislike reviews
-    Follow and unfollow other users
-    Edit user profile
-    Responsive design for desktop and mobile devices
+* Implemented
+    * User registration and login
+    * Search for restaurants by location and cuisine
+    * View restaurant details, including reviews and ratings
+    * Write and post restaurant reviews
+
+* To be implemented
+    * Like and dislike reviews
+    * Follow and unfollow other users
+    * Edit user profile
+    * Responsive design for desktop and mobile devices
 
 ## Code :coffee:
+
 
 The code for this project was written in Python using Flask framework and SQLAlchemy ORM for database management. HTML, CSS, and JavaScript were used for the frontend. The code is available on GitHub.
 
 ## Dependencies :couple:
 
     Flask
+Flask_Session
     SQLAlchemy
-    WTForms
     Werkzeug
     Jinja2
     Bootstrap
